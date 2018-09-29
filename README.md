@@ -4,7 +4,7 @@ Kellogg AI Programme materials
 
 ## KAIP-01 Introduction to AI
 
-To launch `Binder` to view and run the exercise notebooks in your browser, use this button [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/djcomlab/KelloggAI/dev)
+To launch `Binder` to view and run the exercise notebooks in your browser, use this button [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/KelloggAIProgramme/KAIP_notebooks/master)
 
 ### Day 1
 
