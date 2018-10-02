@@ -26,6 +26,8 @@ Exercises
 
 ### Day 3
 
+MENACE Implementation
+
 Exercises:
 - Playing MENACE in code
 - Implementing search space and heuristic search for tic-tac-toe, using the matchbox model from Day 2
